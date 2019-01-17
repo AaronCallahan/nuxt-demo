@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Acme Corp.",
+    "user": "contact@acmecorp.com",
+    "dashboard": "acmecorp",
+    "plan": "starter",
+    "creation_date": "Feb 10, 2016"
+  },
+  {
+    "name": "Bob's Burgers",
+    "user": "bob@bobsburgers.com",
+    "dashboard": "bobsburgers",
+    "plan": "trial",
+    "creation_date": "Jun 09, 2018"
+  },
+  {
+    "name": "Cyberdyne Systems",
+    "user": "hello@cyberdynesys.org",
+    "dashboard": "cyberdynesystems",
+    "plan": "corporate",
+    "creation_date": "Apr 22, 2018"
+  },
+  {
+    "name": "Globex",
+    "user": "admin@globex.com",
+    "dashboard": "globex",
+    "plan": "corporate",
+    "creation_date": "Jan 03, 2017"
+  },
+  {
+    "name": "Hooli",
+    "user": "gavin@hooli.com",
+    "dashboard": "hooli",
+    "plan": "enterprise",
+    "creation_date": "May 05, 2018"
+  },
+  {
+    "name": "Krusty Krab",
+    "user": "contact@krustykrab.com",
+    "dashboard": "stuff",
+    "plan": "starter",
+    "creation_date": "Sep 30, 2016"
+  },
+  {
+    "name": "Stark Industries",
+    "user": "tony@starkindustries.org",
+    "dashboard": "starkindustries",
+    "plan": "enterprise",
+    "creation_date": "Jul 17, 2018"
+  },
+  {
+    "name": "Umbrella Corp.",
+    "user": "hello@umbrellacorp.com",
+    "dashboard": "umbrellacorp",
+    "plan": "starter",
+    "creation_date": "Apr 1, 2018"
+  },
+  {
+    "name": "Wayne Enterprises",
+    "user": "bruce@wayneenterprises.com",
+    "dashboard": "wayneenterprises",
+    "plan": "enterprise",
+    "creation_date": "Dec 11, 2016"
+  },
+  {
+    "name": "Wonka Industries",
+    "user": "willy@wonka.com",
+    "dashboard": "wonka",
+    "plan": "starter",
+    "creation_date": "Oct 31, 2018"
+  }
+]
