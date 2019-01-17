@@ -1,4 +1,4 @@
-# nuxt-demo-2
+# nuxt-demo
 
 > My awe-inspiring Nuxt.js project
 
